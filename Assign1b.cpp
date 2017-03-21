@@ -34,7 +34,6 @@ int main()	{
 	cout << "Cost per month:" << setw(15) << "$" << month << endl;
 	cout << "Cost per year:" << setw(16) << "$" << year << "\n\n";
 
-	system("pause");
 
 	return 0;
 }
