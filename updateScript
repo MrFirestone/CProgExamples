@@ -1,0 +1,7 @@
+#!/bin/bash
+# Update Script for GitHub
+
+echo "Updating GitHub Repository"
+git add *
+git commit -am "Daily File Update"
+git push
