@@ -35,7 +35,5 @@ int main()	{
 	}
 	cout << "\nTotal for Table: $" << grandTotal << "\n\n";
 
-	system("pause");
-
 	return 0;
 }
